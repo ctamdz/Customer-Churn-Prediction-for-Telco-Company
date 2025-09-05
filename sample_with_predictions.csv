@@ -1,0 +1,21 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,TotalCharges,Churn_Prediction,Churn_Probability,Risk_Level
+CUST0001,Female,0,Yes,No,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,29.85,29.85,1,0.7673,High
+CUST0002,Male,1,No,Yes,5,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,No,Mailed check,56.95,284.75,1,0.9751,High
+CUST0003,Female,0,Yes,No,12,Yes,No,DSL,Yes,No,Yes,Yes,No,No,One year,Yes,Bank transfer (automatic),53.85,646.2,0,0.1387,Low
+CUST0004,Male,0,No,Yes,24,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,One year,No,Credit card (automatic),42.3,1015.2,1,0.9517,High
+CUST0005,Female,1,Yes,No,36,Yes,No,DSL,Yes,No,Yes,Yes,No,No,Two year,Yes,Electronic check,89.1,3206.6,0,0.0056,Low
+CUST0006,Male,0,No,Yes,48,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Two year,No,Mailed check,79.35,3808.8,0,0.293,Low
+CUST0007,Female,0,Yes,No,60,Yes,No,DSL,Yes,No,Yes,Yes,No,No,Two year,Yes,Bank transfer (automatic),20.65,1239.0,0,0.0798,Low
+CUST0008,Male,1,No,Yes,72,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Two year,No,Credit card (automatic),95.45,6872.4,0,0.0747,Low
+CUST0009,Female,0,Yes,No,6,Yes,No,DSL,Yes,No,Yes,Yes,No,No,Month-to-month,Yes,Electronic check,25.75,154.5,1,0.8203,High
+CUST0010,Male,0,No,Yes,18,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,One year,No,Mailed check,56.05,1008.9,1,0.9158,High
+CUST0011,Female,1,Yes,No,30,Yes,No,DSL,No,No,No,No,No,No,One year,Yes,Bank transfer (automatic),53.85,1615.5,0,0.0664,Low
+CUST0012,Male,0,No,Yes,42,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),42.3,1776.6,1,0.8586,High
+CUST0013,Female,0,Yes,No,54,Yes,No,DSL,No,No,No,No,No,No,Two year,Yes,Electronic check,89.1,3206.6,0,0.0014,Low
+CUST0014,Male,1,No,Yes,66,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Mailed check,79.35,5237.1,0,0.2555,Low
+CUST0015,Female,0,Yes,No,3,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),20.65,61.95,1,0.8005,High
+CUST0016,Male,0,No,Yes,9,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,No,Credit card (automatic),95.45,859.15,1,0.6849,Medium
+CUST0017,Female,1,Yes,No,15,Yes,No,DSL,No,No,No,No,No,No,One year,Yes,Electronic check,25.75,386.25,1,0.5725,Medium
+CUST0018,Male,0,No,Yes,27,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,One year,No,Mailed check,56.05,1513.35,1,0.9084,High
+CUST0019,Female,0,Yes,No,39,Yes,No,DSL,No,No,No,No,No,No,Two year,Yes,Bank transfer (automatic),53.85,2099.15,0,0.0215,Low
+CUST0020,Male,1,No,Yes,51,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),42.3,2157.3,1,0.8277,High
