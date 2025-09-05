@@ -161,13 +161,13 @@ Our comprehensive Power BI dashboard provides interactive business intelligence 
 
 #### Key Insights from Power BI EDA:
 
-** Overview Dashboard Findings:**
+**Overview Dashboard Findings:**
 - **Overall Churn Rate**: 26.54% (1,869 out of 7,043 customers)
 - **Revenue Impact**: $139.13K monthly revenue lost (30.50% of total revenue)
 - **Demographics**: Balanced gender distribution (50.48% Female, 49.52% Male)
 - **Senior Citizens**: Higher churn risk among non-senior customers (1,393 vs 476 churns)
 
-** Account Details Analysis:**
+**Account Details Analysis:**
 
 **Contract Type Impact:**
 - **Month-to-month**: 42.71% churn rate (highest risk)
@@ -195,7 +195,7 @@ Our comprehensive Power BI dashboard provides interactive business intelligence 
 - **Churned Customers**: Average $1,531.80 total charges
 - **Monthly Charges**: Churned customers pay higher monthly fees ($74.44 vs $61.27)
 
-** Service Usage Analysis:**
+**Service Usage Analysis:**
 
 **Main Services:**
 - **Fiber Optic**: 41.89% churn rate (highest risk)
@@ -210,7 +210,7 @@ Our comprehensive Power BI dashboard provides interactive business intelligence 
 - **Online Backup**: 39.93% churn rate (without service) vs 21.53% (with service)
 - **Device Protection**: 39.13% churn rate (without service) vs 22.50% (with service)
 
-** Streaming Services:**
+**Streaming Services:**
 - **Streaming Movies**: 33.68% churn rate (without service) vs 29.94% (with service)
 - **Streaming TV**: 33.52% churn rate (without service) vs 30.07% (with service)
 
